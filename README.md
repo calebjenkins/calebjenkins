@@ -1,5 +1,6 @@
-### Hola friends! 👋
+![Header background](resources/social-banner.png)
 
+### Hola friends! 
 - ✨ I'm Caleb Jenkins
 - 🧵 I've been blogging since 2004 - https://developingux.com
 - ⚒ Building software for over 20 years. https://linkedin.com/in/calebjenkins
